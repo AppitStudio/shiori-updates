@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shiori</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>
+                https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
+            <description><![CDATA[
+                <h2>Shiori 0.9 - Initial Sparkle Update Setup</h2>
+                <h3>What's Included</h3>
+                <ul>
+                    <li><strong>Sparkle Update Feed:</strong> App now checks updates from GitHub Pages appcast.</li>
+                    <li><strong>About + Manual Check:</strong> Users can check for updates from the app UI and menu bar.</li>
+                </ul>
+
+                <h3>Notes</h3>
+                <ul>
+                    <li>Release process is now standardized with versioned DMG assets.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9/Shiori.dmg"
+                length="0" type="application/octet-stream"
+                sparkle:edSignature="REPLACE_WITH_EDDSA_SIGNATURE" />
+        </item>
+    </channel>
+</rss>
