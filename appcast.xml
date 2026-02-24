@@ -4,7 +4,7 @@
         <title>Shiori</title>
         <item>
             <title>0.9</title>
-            <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+            <pubDate>Tue, 24 Feb 2026 21:28:26 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
@@ -12,21 +12,23 @@
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
                 <h2>Shiori 0.9 - Initial Sparkle Update Setup</h2>
-                <h3>What's Included</h3>
+                <h3>What's New</h3>
                 <ul>
-                    <li><strong>Sparkle Update Feed:</strong> App now checks updates from GitHub Pages appcast.</li>
-                    <li><strong>About + Manual Check:</strong> Users can check for updates from the app UI and menu bar.</li>
+                    <li><strong>Sparkle Update Integration:</strong> Shiori now supports automatic updates via the Sparkle framework.</li>
+                    <li><strong>Manual Update Check:</strong> Check for updates directly from the app menu bar.</li>
+                    <li><strong>About Integration:</strong> About screen shows current version and update actions.</li>
                 </ul>
 
                 <h3>Notes</h3>
                 <ul>
-                    <li>Release process is now standardized with versioned DMG assets.</li>
+                    <li>Release process is now standardized with versioned DMG assets on GitHub Releases.</li>
+                    <li>Update feed and release notes are hosted via GitHub Pages.</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9/Shiori.dmg"
-                length="0" type="application/octet-stream"
-                sparkle:edSignature="REPLACE_WITH_EDDSA_SIGNATURE" />
+                length="4084586" type="application/octet-stream"
+                sparkle:edSignature="bXNPf+Jf2shyncL48v2AYMgAEIyS+pEs0P04ofbcEjUdFahN1FBfvFg+gUNSffCrUGOev8GRkdgn+Z3N6XJHDQ==" />
         </item>
     </channel>
 </rss>
