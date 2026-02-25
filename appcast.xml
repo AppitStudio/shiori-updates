@@ -3,32 +3,26 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Tue, 24 Feb 2026 21:28:26 +0200</pubDate>
+            <title>0.9.1</title>
+            <pubDate>Wed, 25 Feb 2026 21:27:28 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
-                <h2>Shiori 0.9 - Initial Sparkle Update Setup</h2>
-                <h3>What's New</h3>
+                <h2>Shiori 0.9.1 - Smoother Access</h2>
+                <h3>Improvements</h3>
                 <ul>
-                    <li><strong>Sparkle Update Integration:</strong> Shiori now supports automatic updates via the Sparkle framework.</li>
-                    <li><strong>Manual Update Check:</strong> Check for updates directly from the app menu bar.</li>
-                    <li><strong>About Integration:</strong> About screen shows current version and update actions.</li>
+                    <li><strong>Updated Login Flow:</strong> The login experience has been refined for a smoother, more reliable sign-in process.</li>
                 </ul>
 
-                <h3>Notes</h3>
-                <ul>
-                    <li>Release process is now standardized with versioned DMG assets on GitHub Releases.</li>
-                    <li>Update feed and release notes are hosted via GitHub Pages.</li>
-                </ul>
+                <p>Thank you for using Shiori! Your feedback helps us improve with every release.</p>
             ]]></description>
             <enclosure
-                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9/Shiori.dmg"
-                length="4084586" type="application/octet-stream"
-                sparkle:edSignature="bXNPf+Jf2shyncL48v2AYMgAEIyS+pEs0P04ofbcEjUdFahN1FBfvFg+gUNSffCrUGOev8GRkdgn+Z3N6XJHDQ==" />
+                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.1/Shiori.dmg"
+                length="4085206" type="application/octet-stream"
+                sparkle:edSignature="NOMk9fOgmFcG9qkAgcZ6e+7EYxVKI23/5jlMPf2QflgsXW15kA6tG8uUKyrMsX+vqPWrdRjdVTEeQK+Hc5kqBg==" />
         </item>
     </channel>
 </rss>
