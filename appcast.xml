@@ -3,26 +3,26 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>0.9.1</title>
-            <pubDate>Wed, 25 Feb 2026 21:27:28 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <title>0.9.2</title>
+            <pubDate>Sat, 28 Feb 2026 00:27:45 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
-                <h2>Shiori 0.9.1 - Smoother Access</h2>
-                <h3>Improvements</h3>
+                <h2>Shiori 0.9.2 - Stability Polish</h2>
+                <h3>Fixes</h3>
                 <ul>
-                    <li><strong>Updated Login Flow:</strong> The login experience has been refined for a smoother, more reliable sign-in process.</li>
+                    <li><strong>Bug Fixes:</strong> Resolved various issues to improve overall app stability and reliability.</li>
                 </ul>
 
                 <p>Thank you for using Shiori! Your feedback helps us improve with every release.</p>
             ]]></description>
             <enclosure
-                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.1/Shiori.dmg"
-                length="4085206" type="application/octet-stream"
-                sparkle:edSignature="NOMk9fOgmFcG9qkAgcZ6e+7EYxVKI23/5jlMPf2QflgsXW15kA6tG8uUKyrMsX+vqPWrdRjdVTEeQK+Hc5kqBg==" />
+                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.2/Shiori.dmg"
+                length="4127497" type="application/octet-stream"
+                sparkle:edSignature="1ADwIybv5qm2FbfC8yBUguBrq23kRq0ug4prOEzax+CFVaQvBjxpmIhm4Thli2wl1ADiUEPKDoazFVHwq1S2Cg==" />
         </item>
     </channel>
 </rss>
