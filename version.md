@@ -1,4 +1,4 @@
-VERSION: 0.9.2
+VERSION: 0.9.4
 DETAILS:
 
-Bug fixes
+Bug fixes before release

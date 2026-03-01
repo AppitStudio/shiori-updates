@@ -3,26 +3,26 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>0.9.2</title>
-            <pubDate>Sat, 28 Feb 2026 00:27:45 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <title>0.9.4</title>
+            <pubDate>Sun, 01 Mar 2026 12:59:51 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
-                <h2>Shiori 0.9.2 - Stability Polish</h2>
+                <h2>Shiori 0.9.4 - Refined & Ready</h2>
                 <h3>Fixes</h3>
                 <ul>
-                    <li><strong>Bug Fixes:</strong> Resolved various issues to improve overall app stability and reliability.</li>
+                    <li><strong>Bug Fixes:</strong> Resolved various issues to improve stability and reliability ahead of the upcoming release.</li>
                 </ul>
 
-                <p>Thank you for using Shiori! Your feedback helps us improve with every release.</p>
+                <p>Thank you for using Shiori! We're polishing things up for a great experience.</p>
             ]]></description>
             <enclosure
-                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.2/Shiori.dmg"
-                length="4127497" type="application/octet-stream"
-                sparkle:edSignature="1ADwIybv5qm2FbfC8yBUguBrq23kRq0ug4prOEzax+CFVaQvBjxpmIhm4Thli2wl1ADiUEPKDoazFVHwq1S2Cg==" />
+                url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.4/Shiori.dmg"
+                length="4128364" type="application/octet-stream"
+                sparkle:edSignature="KAqILNC8zEfy1Ucnx8633VxcaOe6s13ZbwLdwiNpmqMHoVMkU3X1DgM0E8ns4wC2C9rXqcvghGePjUPj97ZNCA==" />
         </item>
     </channel>
 </rss>
