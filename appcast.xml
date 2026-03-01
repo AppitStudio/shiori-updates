@@ -3,10 +3,10 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>0.9.3</title>
-            <pubDate>Sun, 01 Mar 2026 13:34:57 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <title>0.9.4</title>
+            <pubDate>Sun, 01 Mar 2026 13:51:41 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
@@ -19,7 +19,7 @@
 
                 <p>Thank you for using Shiori! We're polishing things up for a great experience.</p>
             ]]></description>
-            <enclosure url="https://appitstudio.github.io/shiori-updates/Shiori.dmg" length="4129075" type="application/octet-stream" sparkle:edSignature="xsFo60N/dK6UjcnNGdYWYjxfriH0qR+KnOFichWorAXj04Wx5aDufuoMXQlXzm3esTbbz87dfZi7q9WVtCBzDQ=="/>
+            <enclosure url="https://github.com/AppitStudio/shiori-updates/releases/download/v0.9.4/Shiori.dmg" length="4128663" type="application/octet-stream" sparkle:edSignature="L+lcwboy0kgT0wFgiZUlxgPCHiSAydPGeLPcE9puS2SMAehceMj6W1uLN3+9YsArbgrny7tvIrrDe4yxLuorDw=="/>
         </item>
     </channel>
 </rss>
