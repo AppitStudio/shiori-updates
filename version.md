@@ -1,4 +1,4 @@
-VERSION: 1.0.1
+VERSION: 1.0.2
 DETAILS:
 
-new: Base integration for team plan
+improved: Minor user interface improvements for a cleaner, more polished experience
