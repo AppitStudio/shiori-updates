@@ -1,7 +1,13 @@
-VERSION: 1.0.4
+VERSION: 1.1.0
 DETAILS:
 
-new: Recycle Bin — deleted bookmarks go to a Recycle Bin instead of vanishing; browse, restore, or permanently delete them, with the local cache staying in sync with deletions from other devices
-new: Quick folder creation — right-click any bookmark, tag, or folder row to create a folder, plus New Subfolder on folder rows to nest inside the clicked folder
-improved: Bookmark URL is now required and auto-normalized — example.com becomes https://example.com, host:port is supported, and non-web schemes are rejected to match the server
-bug fix: Import now shows a clear "Select a file first" warning when no file is chosen and honestly reports "No Bookmarks Imported" instead of a false success
+new: Choose where your library lives — Shiori Cloud, only on this Mac, or your own iCloud account synced between your Macs
+new: Guided, verified move from Shiori Cloud to this Mac or iCloud that leaves the cloud library untouched
+new: One library location per account, shared by every Mac you sign in on
+new: Folder images — choose, replace or remove an image for any folder
+new: Local AI assistants (Settings → AI Assistants), read-only by default, every change needs your OK
+new: Full library backups and merging libraries from different Macs only when you choose
+improved: Safer sign-in — confirm the account or switch to a different one
+improved: Saved bookmarks open right away while sign-in is checked in the background
+improved: Chrome, Safari and Firefox extensions can use the library stored on your Mac
+bug fix: Windows left off-screen now come back where you can reach them

@@ -3,35 +3,41 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Fri, 17 Jul 2026 15:33:44 +0300</pubDate>
-            <sparkle:version>104</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Sat, 14 Nov 2026 18:59:04 +0200</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
-                <h2>Shiori 1.0.4 – Recycle Bin & Quicker Folders</h2>
+                <h2>Shiori 1.1.0 – Your Library, Your Choice! 🔒☁️</h2>
 
-                <h3>What's New</h3>
+                <h3>✨ What's New</h3>
                 <ul>
-                    <li><strong>Recycle Bin:</strong> Deleted bookmarks now go to a Recycle Bin instead of vanishing — browse trashed bookmarks, restore the ones you want, or permanently delete them, with the local cache staying in sync with deletions from your other devices!</li>
-                    <li><strong>Quick Folder Creation:</strong> Right-click any bookmark, tag, or folder row to create a folder on the spot, plus New Subfolder on folder rows to nest one inside the folder you clicked!</li>
+                    <li><strong>Choose Where Your Library Lives:</strong> Keep your bookmarks in Shiori Cloud, only on this Mac, or in your own iCloud account synced between your Macs!</li>
+                    <li><strong>Move Your Library Safely:</strong> A guided move from Shiori Cloud to this Mac or iCloud copies everything, checks the copy, and leaves your cloud library untouched!</li>
+                    <li><strong>One Location for Every Mac:</strong> Shiori remembers the location chosen for your account, so every Mac you sign in on uses the same one!</li>
+                    <li><strong>Folder Images:</strong> Choose, replace or remove an image for any folder, and it goes wherever your folder goes!</li>
+                    <li><strong>AI Assistants:</strong> Connect local AI assistants in Settings → AI Assistants to work with your bookmarks, tags and folders. Read-only by default, and every change asks for your OK!</li>
+                    <li><strong>Backup &amp; Recovery:</strong> Export a full backup of your library and merge libraries from different Macs only when you choose!</li>
                 </ul>
 
-                <h3>Improvements</h3>
+                <h3>🚀 Improvements</h3>
                 <ul>
-                    <li><strong>Smarter Bookmark URLs:</strong> The URL field is now clearly required, and URLs no longer need a scheme — example.com becomes https://example.com, host:port values like localhost:3000 are supported, and non-web schemes are rejected to match the server!</li>
+                    <li><strong>Safer Sign-In:</strong> Confirm the account before you continue, or switch to a different one!</li>
+                    <li><strong>Faster Start:</strong> Your saved bookmarks open right away while your sign-in is checked in the background!</li>
+                    <li><strong>Browser Extensions:</strong> The Chrome, Safari and Firefox extensions can use the library stored on your Mac!</li>
                 </ul>
 
-                <h3>Bug Fixes</h3>
+                <h3>🐞 Bug Fixes</h3>
                 <ul>
-                    <li><strong>Clearer Import Feedback:</strong> Importing with no file selected now shows a clear "Select a file first" warning, and an import that adds nothing is honestly reported as "No Bookmarks Imported" instead of a false success!</li>
+                    <li><strong>Windows Back on Screen:</strong> Windows left off-screen (for example after unplugging a display) now come back where you can reach them!</li>
                 </ul>
 
                 <p>Thank you for being part of the Shiori community! Your feedback drives every improvement we make.</p>
             ]]></description>
-            <enclosure url="https://github.com/AppitStudio/shiori-updates/releases/download/v1.0.4/Shiori.dmg" length="5130081" type="application/octet-stream" sparkle:edSignature="sCFVXvgtcgtoIU9AM7cJoki5xT1fx4XXdMUfIcxpO70p/xd4hcNdxbELC/3w1DiGcNVUGvrM7p/xNrKBcA65AA=="/>
+            <enclosure url="https://github.com/AppitStudio/shiori-updates/releases/download/v1.1.0/Shiori.dmg" length="6808571" type="application/octet-stream" sparkle:edSignature="xt4E6lT4AMo8qnO4Xnv8XeUAlSWXCTabPJhlzLLWgnD2Ud7yk6MwgCtIw0aQIu7tCIj5HV42wRDSaBfClNWKDQ=="/>
         </item>
     </channel>
 </rss>
