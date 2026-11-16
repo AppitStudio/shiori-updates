@@ -3,41 +3,24 @@
     <channel>
         <title>Shiori</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sat, 14 Nov 2026 18:59:04 +0200</pubDate>
-            <sparkle:version>110</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Mon, 16 Nov 2026 10:27:33 +0200</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>
                 https://appitstudio.github.io/shiori-updates/release-notes.html</sparkle:fullReleaseNotesLink>
             <description><![CDATA[
-                <h2>Shiori 1.1.0 – Your Library, Your Choice! 🔒☁️</h2>
+                <h2>Shiori 1.1.1 – Live in Your Menu Bar! 📌✨</h2>
 
                 <h3>✨ What's New</h3>
                 <ul>
-                    <li><strong>Choose Where Your Library Lives:</strong> Keep your bookmarks in Shiori Cloud, only on this Mac, or in your own iCloud account synced between your Macs!</li>
-                    <li><strong>Move Your Library Safely:</strong> A guided move from Shiori Cloud to this Mac or iCloud copies everything, checks the copy, and leaves your cloud library untouched!</li>
-                    <li><strong>One Location for Every Mac:</strong> Shiori remembers the location chosen for your account, so every Mac you sign in on uses the same one!</li>
-                    <li><strong>Folder Images:</strong> Choose, replace or remove an image for any folder, and it goes wherever your folder goes!</li>
-                    <li><strong>AI Assistants:</strong> Connect local AI assistants in Settings → AI Assistants to work with your bookmarks, tags and folders. Read-only by default, and every change asks for your OK!</li>
-                    <li><strong>Backup &amp; Recovery:</strong> Export a full backup of your library and merge libraries from different Macs only when you choose!</li>
-                </ul>
-
-                <h3>🚀 Improvements</h3>
-                <ul>
-                    <li><strong>Safer Sign-In:</strong> Confirm the account before you continue, or switch to a different one!</li>
-                    <li><strong>Faster Start:</strong> Your saved bookmarks open right away while your sign-in is checked in the background!</li>
-                    <li><strong>Browser Extensions:</strong> The Chrome, Safari and Firefox extensions can use the library stored on your Mac!</li>
-                </ul>
-
-                <h3>🐞 Bug Fixes</h3>
-                <ul>
-                    <li><strong>Windows Back on Screen:</strong> Windows left off-screen (for example after unplugging a display) now come back where you can reach them!</li>
+                    <li><strong>Show Shiori In:</strong> Choose where Shiori appears in Settings → Appearance: in the Dock and menu bar (as before), or in the menu bar only, so Shiori stays out of your Dock!</li>
                 </ul>
 
                 <p>Thank you for being part of the Shiori community! Your feedback drives every improvement we make.</p>
             ]]></description>
-            <enclosure url="https://github.com/AppitStudio/shiori-updates/releases/download/v1.1.0/Shiori.dmg" length="6808571" type="application/octet-stream" sparkle:edSignature="xt4E6lT4AMo8qnO4Xnv8XeUAlSWXCTabPJhlzLLWgnD2Ud7yk6MwgCtIw0aQIu7tCIj5HV42wRDSaBfClNWKDQ=="/>
+            <enclosure url="https://github.com/AppitStudio/shiori-updates/releases/download/v1.1.1/Shiori.dmg" length="6814475" type="application/octet-stream" sparkle:edSignature="n2c+mc8imzZpF+dtTyhCC8rBD6M0JvXfI1tfidqiI+T1HVNdRM8ujtls9mkl0u0tFPcOIigz6uy11kv5rfVzDQ=="/>
         </item>
     </channel>
 </rss>
